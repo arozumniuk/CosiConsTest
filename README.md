@@ -21,8 +21,12 @@ mvn clean install test
 
 Report will be added to {project directory}/target/surefire-reports 
 
+**#To get TestNg report:**
 
-**#To get web-page with report:**
+- Navigate to {project directory}/target/surefire-reports/Regression tests/Regression UI tests .html and open this one in browser
+
+
+**#To get Allure report:**
 
 - after tests will be finished execute:
 
